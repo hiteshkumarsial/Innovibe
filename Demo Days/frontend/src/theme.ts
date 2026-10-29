@@ -1,0 +1,27 @@
+export const theme = {
+  colors: {
+    background: '#f4f4f0',
+    backgroundCard: '#ffffff',
+    cardDark: '#121316',
+    accentLime: '#d4ff32',
+    accentLimeSubtle: '#eafc89',
+    accentCyan: '#46e4ea',
+    accentBlue: '#3b82f6',
+    pillLight: '#ebece6',
+    pillBorder: '#e2e3dd',
+    textDark: '#121316',
+    textMuted: '#71757e',
+    textSubtle: '#9ea3ae',
+    textWhite: '#ffffff',
+    danger: '#f43f5e',
+    dangerLight: '#ffe4e6',
+    success: '#10b981',
+  },
+  radius: {
+    pill: 24,
+    card: 28,
+    cardLg: 34,
+    sm: 12,
+    round: 9999,
+  },
+};
